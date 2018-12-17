@@ -1,0 +1,22 @@
+{
+  "name": "beastly-core",
+  "version": "1.0.0",
+  "description": "Beastly core components",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/probstit/beastly-core.git"
+  },
+  "keywords": [
+    "beastly"
+  ],
+  "author": "PRO BST IT",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/probstit/beastly-core/issues"
+  },
+  "homepage": "https://github.com/probstit/beastly-core#readme"
+}
